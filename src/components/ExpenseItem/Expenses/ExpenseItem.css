@@ -54,3 +54,13 @@
         padding: 0.5rem 1.5rem;
     }
     }
+button{
+    border-radius: 10px;
+    background-color: #40005d;
+    color: white;
+}
+button:hover{
+    border-radius: 0;
+    background-color: #40005d6e;
+    transition: 1s;
+}
